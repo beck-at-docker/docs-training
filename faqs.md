@@ -17,6 +17,10 @@ aliases:
 
 Docker single sign-on (SSO) is only available with the Docker Business subscription. [Upgrade your existing subscription](/subscription/core-subscription/upgrade/) to start using Docker SSO.
 
+## Will I be prompted to create a branch?
+
+I think it's automatically making branches called patch-whatever 
+
 ### How does Docker SSO work?
 
 Docker SSO lets users authenticate using their identity providers (IdPs) to access Docker. Docker supports Entra ID (formerly Azure AD) and any SAML 2.0 identity providers. When you enable SSO, this redirects users to your provider’s authentication page to authenticate using their email and password.

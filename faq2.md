@@ -13,6 +13,19 @@ aliases:
 - /security/faqs/single-sign-on/saml-faqs/fdsf
 ---
 
+### This is a new heading we are adding for training purposes
+
+- This is the first item in an unordered list
+- This is the second item in an unordered list
+  - This is another level in the unordered list
+  - Here is another item in this level
+    - Here is a third level
+
+1. This is an ordered list
+2. This is another item in this ordered list
+
+You can find more information in the [Markdown Syntax Guide](https://www.markdownguide.org/basic-syntax/).
+
 ### Is Docker SSO available for all paid subscriptions?
 
 Docker single sign-on (SSO) is only available with the Docker Business subscription. [Upgrade your existing subscription](/subscription/core-subscription/upgrade/) to start using Docker SSO.
